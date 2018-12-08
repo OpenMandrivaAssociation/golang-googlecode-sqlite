@@ -6,7 +6,7 @@
 # No tests provided
 %global with_unit_test 0
 %else
-%global with_devel 0
+%global with_devel 1
 %global with_bundled 0
 %global with_debug 0
 %global with_check 0
